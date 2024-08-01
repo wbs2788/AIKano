@@ -1,0 +1,4 @@
+bitsandbytes==0.43.1
+torch==2.2.0+cu121
+tqdm==4.66.2
+transformers==4.43.3
